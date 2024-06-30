@@ -1,4 +1,8 @@
 # audioFingerprinting
+Vasiliki Rentoula mtn2317
+
+Ilias Alexandropoulos mtn2302
+
 Audio fingerprinting tool using Dejavu library
 
 ## Description
