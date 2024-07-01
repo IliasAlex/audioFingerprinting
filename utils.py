@@ -41,8 +41,6 @@ def recognize_segments(djv, song_path, segment_duration=10):
     return top_song_names
 # Function to extract a segment from the original song
 def extract_segment(original_file, output_file, start_time, duration):
-    # Implement your logic to extract the segment here
-    # Example: using ffmpeg to extract the segment
     cmd = [
         "ffmpeg",
         "-i", original_file,
