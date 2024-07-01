@@ -3,7 +3,7 @@ Vasiliki Rentoula mtn2317
 
 Ilias Alexandropoulos mtn2302
 
-Audio fingerprinting tool using Dejavu library
+Audio fingerprinting tool using [Dejavu](https://github.com/worldveil/dejavu) library
 
 ## Description
 This project uses Dejavu library to fingerprint, recognize and remove duplicates from a given directory.
