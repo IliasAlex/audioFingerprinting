@@ -20,6 +20,14 @@ This project uses Dejavu library to fingerprint, recognize and remove duplicates
 git clone https://github.com/IliasAlex/audioFingerprinting.git
 ```
 
+Also you need to install [MySQL](https://www.mysql.com/downloads/)
+
+or 
+
+```bash
+pip install mysqlclient
+```
+
 ## Usage
 ```bash
 cd audioFingerprinting
